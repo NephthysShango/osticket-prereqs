@@ -21,28 +21,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-
-- Azure Tentant 
-- Subscription
-- Resource group
-- Virtual Machine & Subnet
-- Dependencies & osTicket
+- Install and enable IIS with Windows CGI
+- 
+- 
+- 
+- 
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ONnqFvY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <p>
-
+Have a Azure tenant created. Once created you need a subscription in order to create a resource group, virtual machine & subnet. Then we can install the dependencies and osTicket through the virtual machine. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img src="https://i.imgur.com/p3OkZkv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+IIS has been succesully installed after doing the following steps: Control panel ->Programs -> Turn windows features on or off -> Find Internet information services (IIS) on the list and check it off. Click the drop box -> World wide web services -> Application development -> check CGI. Collapse application development and go to Common HTTP features. Make sure all the options are checked off. Lastly, press ok and wait for the it to install. When thats's finished you can test it by typing 127.0.0.1 in a web broweser. The picture above should be the result of that.
 </p>
 <br />
 
