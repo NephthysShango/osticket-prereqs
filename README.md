@@ -53,7 +53,7 @@ MySQL, the server database for osTicket was installed sucessfully.
 </p>
 <br />
 
-<p><img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img src="https://i.imgur.com/RUQYP0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After configurating IIS and registering PHP as an adminstrator, osTicket was installed.
