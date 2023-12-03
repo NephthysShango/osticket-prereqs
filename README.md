@@ -8,7 +8,7 @@ This tutorial displays the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites]((https://youtu.be/dEvGaxOgqf0?si=xJntjhw88yFHw3VT))
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,10 +22,10 @@ This tutorial displays the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install and enable IIS with Windows CGI
-- Install PHP Manager
-- Install MySQL
-- Install osTicket
+- IIS with Windows CGI
+- PHP Manager
+- MySQL
+- osTicket
 
 <h2>Installation Steps</h2>
 
